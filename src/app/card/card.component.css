@@ -1,0 +1,39 @@
+.card{
+
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    height: 100px;
+    align-items: center;
+}
+
+.icon{
+font-size: 50px;
+width: fit-content;
+height: fit-content;
+}
+
+.orange{
+
+    background-color: orange;
+}
+
+.red{
+
+    background-color: rgb(242, 72, 72);
+
+
+}
+
+.green{
+
+
+    background-color: green;
+
+}
+
+.blue{
+
+
+    background-color: rgb(85, 85, 242);
+}
